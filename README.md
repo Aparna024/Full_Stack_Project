@@ -1,4 +1,4 @@
-# Energy Demand Forecasting Web Application
+# MERN-BASED WEB APPLICATION FOR ENERGY DEMAND PREDICTION
 
 
 ![logo](https://github.com/Aparna024/Projects/blob/main/amrita_logo-removebg-preview.png)<!-- Replace with the actual path to your college logo -->
